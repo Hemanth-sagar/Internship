@@ -1,3 +1,2 @@
 # Internship
-Jala academy
-Core java assignments
+Jala academy - Core java assignments
